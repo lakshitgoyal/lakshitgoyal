@@ -5,6 +5,7 @@
 🚀 Currently exploring:
     • Cloud platforms (GCP, AWS basics)
     • Python, C/C++
+    • Agentic AI and Generative AI
     • UI/UX Design and Web Development
     • SEO and Basic Data Analytics(SQL)
 
