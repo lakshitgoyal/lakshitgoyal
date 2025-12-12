@@ -12,5 +12,5 @@
 🌱 Always eager to learn and contribute to open-source projects
 🔍 Looking for internship opportunities in development and cloud computing
 📫 Reach me at: [lakshitgoyal111@gmail.com](mailto:lakshitgoyal111@gmail.com)
-🔗 LinkedIn: [www.linkedin.com/in/](http://www.linkedin.com/in/lakshitgoyal12031984924333) 
+🔗 LinkedIn: [www.linkedin.com/profile](http://www.linkedin.com/in/lakshitgoyal1726) 
 🧠 Fun Fact: I’m the guy who likes solving bugs more than creating features
